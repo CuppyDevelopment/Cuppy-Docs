@@ -52,5 +52,4 @@ We may update this Privacy Policy occasionally. We will notify users of any mate
 
 If you have questions about this Privacy Policy, you can contact us:
 
-**Email:** cuppydevelopment@gmail.com  
-**Address:** [Insert business address here]
+**Email:** cuppydevelopment@gmail.com
